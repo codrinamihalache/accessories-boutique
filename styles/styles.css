@@ -647,3 +647,18 @@ body.columns main > .section:empty {
 main[hidden] {
   display: none !important;
 }
+
+/* === Storefront Genie theme: fashion-apparel (auto-generated; do not edit) === */
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;700&display=swap');
+:root, .dropin-design {
+  --type-base-font-family: 'Archivo', system-ui, sans-serif;
+  --color-brand-300: #5c5c5c;
+  --color-brand-500: #111111;
+  --color-brand-600: #000000;
+  --color-brand-700: #000000;
+  --color-button-hover: var(--color-brand-600);
+  --shape-border-radius-1: 0;
+  --shape-border-radius-2: 2px;
+  --shape-border-radius-3: 4px;
+}
+/* === end Storefront Genie theme === */
